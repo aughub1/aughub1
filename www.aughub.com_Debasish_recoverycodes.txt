@@ -1,9 +1,0 @@
-﻿Two-Factor Authentication Recovery Codes - https://www.aughub.com (Debasish)
-
-Each line of 16 letters and numbers is a single recovery code, with optional spaces for readability. To use a recovery code, after entering your username and password, enter the code like "1234 5678 90AB CDEF" at the 2FA prompt. If your site has a custom login prompt and does not show a 2FA prompt, you can use the single-step method by entering your password and the code together in the Password field, like "mypassword1234 5678 90AB CDEF". Your recovery codes are:
-
-31ad d792 d4f7 be43
-e1fa 9129 ee69 a1f3
-a0f5 ab67 c8bd 3a31
-3ae8 7e75 c862 7342
-8a1b e6c8 bfa6 2f35
